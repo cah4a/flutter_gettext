@@ -1,0 +1,12 @@
+{
+  "translations": {
+    "": {
+      "Hello, %s": {
+        "msgstr": [
+          "Hi, %s"
+        ]
+      },
+      "Change": {}
+    }
+  }
+}
