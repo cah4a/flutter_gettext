@@ -7,8 +7,11 @@ environment:
 
 dependencies:
   sprintf: ^4.0.0
-  gettext: ^1.1.0
-  gettext_parser: ^0.0.2
+  dart_style: ^1.2.0
+  gettext:
+    path: ../dart_gettext
+  gettext_parser:
+    path: ../dart_gettext_parser
   flutter:
     sdk: flutter
   flutter_localizations:

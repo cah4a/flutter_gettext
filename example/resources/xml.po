@@ -1,0 +1,4195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 4.4.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-12 16:55+0000\n"
+"PO-Revision-Date: 2013-07-09 17:06+0300\n"
+"Last-Translator: root <root@romang>\n"
+"Language-Team: English\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "   10 seconds  "
+msgstr "   10 seconds  "
+
+msgid "   15 seconds  "
+msgstr "   15 seconds  "
+
+msgid "   3 minutes   "
+msgstr "   3 minutes   "
+
+msgid "   30 seconds  "
+msgstr "   30 seconds  "
+
+msgid "   4 minutes   "
+msgstr "   4 minutes   "
+
+msgid "   45 seconds  "
+msgstr "   45 seconds  "
+
+msgid "   60 seconds  "
+msgstr "   60 seconds  "
+
+msgid " 0 seconds"
+msgstr " 0 seconds"
+
+msgid "0 seconds"
+msgstr "0 seconds"
+
+msgid "00 seconds"
+msgstr "00 seconds"
+
+msgid "01:cncel anounce"
+msgstr "01:cncel anounce"
+
+msgid "01:disarm option"
+msgstr "01:disarm option"
+
+msgid "01:select mode"
+msgstr "01:select mode"
+
+msgid "02:abort anounce"
+msgstr "02:abort anounce"
+
+msgid "02:entry alarm"
+msgstr "02:entry alarm"
+
+msgid "03:end exit mode"
+msgstr "03:end exit mode"
+
+msgid "04:entry delay 1"
+msgstr "04:entry delay 1"
+
+msgid "04:fob/kp panic"
+msgstr "04:fob/kp panic"
+
+msgid "05:confirm alarm"
+msgstr "05:confirm alarm"
+
+msgid "05:entry delay 2"
+msgstr "05:entry delay 2"
+
+msgid "06:abort time"
+msgstr "06:abort time"
+
+msgid "06:alarm cancel time"
+msgstr "06:alarm cancel time"
+
+msgid "06:confirm panic"
+msgstr "06:confirm panic"
+
+msgid "07:alarm cancel time"
+msgstr "07:alarm cancel time"
+
+msgid "07:rpt cnfm alrm"
+msgstr "07:rpt cnfm alrm"
+
+msgid "08:entry delay 1"
+msgstr "08:entry delay 1"
+
+msgid "09:entry delay 2"
+msgstr "09:entry delay 2"
+
+msgid "1  minute"
+msgstr "1  minute"
+
+msgid "1 attempt"
+msgstr "1 attempt"
+
+msgid "1 minute"
+msgstr "1 minute"
+
+msgid "1. Exit/Entry 1"
+msgstr "1. Exit/Entry 1"
+
+msgid "1. Inter-Follow"
+msgstr "1. Inter-Follow"
+
+msgid "10  pps"
+msgstr "10  pps"
+
+msgid "10 minutes"
+msgstr "10 minutes"
+
+msgid "10.Emergency"
+msgstr "10.Emergency"
+
+msgid "11.Arming Key"
+msgstr "11.Arming Key"
+
+msgid "11.Gas"
+msgstr "11.Gas"
+
+msgid "12 attempts"
+msgstr "12 attempts"
+
+msgid "12.Flood"
+msgstr "12.Flood"
+
+msgid "12.Non-Alarm"
+msgstr "12.Non-Alarm"
+
+msgid "120 seconds"
+msgstr "120 seconds"
+
+msgid "13. Fire"
+msgstr "13. Fire"
+
+msgid "13.Interior"
+msgstr "13.Interior"
+
+msgid "14 days"
+msgstr "14 days"
+
+msgid "14. Gas"
+msgstr "14. Gas"
+
+msgid "14.Temperature"
+msgstr "14.Temperature"
+
+msgid "15 minutes"
+msgstr "15 minutes"
+
+msgid "15 seconds"
+msgstr "15 seconds"
+
+msgid "15. Flood"
+msgstr "15. Flood"
+
+msgid "15.Home Delay"
+msgstr "15.Home Delay"
+
+msgid "16 attempts"
+msgstr "16 attempts"
+
+msgid "16. Temperature"
+msgstr "16. Temperature"
+
+msgid "17.Guard keybox"
+msgstr "17.Guard keybox"
+
+msgid "18.Gas CO"
+msgstr "18.Gas CO"
+
+msgid "18.Outdoor"
+msgstr "18.Outdoor"
+
+msgid "180 minutes"
+msgstr "180 minutes"
+
+msgid "19.Outdoor"
+msgstr "19.Outdoor"
+
+msgid "1st Caller ID#"
+msgstr "1st Caller ID#"
+
+msgid "1st MMS Tel #"
+msgstr "1st MMS Tel #"
+
+msgid "1st Method"
+msgstr "1st Method"
+
+msgid "1st SMS Tel. No."
+msgstr "1st SMS Tel. No."
+
+msgid "1st Tel. No."
+msgstr "1st Tel. No."
+
+msgid "1st email"
+msgstr "1st email"
+
+msgid "1st mms tel #"
+msgstr "1st mms tel #"
+
+msgid "2 Way Voice Define"
+msgstr "2 Way Voice Define"
+
+msgid "2 attempts"
+msgstr "2 attempts"
+
+msgid "2 minutes"
+msgstr "2 minutes"
+
+msgid "2. Exit/Entry 2"
+msgstr "2. Exit/Entry 2"
+
+msgid "2. Perimeter"
+msgstr "2. Perimeter"
+
+msgid "20  pps"
+msgstr "20  pps"
+
+msgid "20 minutes"
+msgstr "20 minutes"
+
+msgid "21 days"
+msgstr "21 days"
+
+msgid "24H Report"
+msgstr "24H Report"
+
+msgid "24H Zones Report"
+msgstr "24H Zones Report"
+
+msgid "2nd  Tel. No."
+msgstr "2nd  Tel. No."
+
+msgid "2nd Caller ID#"
+msgstr "2nd Caller ID#"
+
+msgid "2nd MMS Tel #"
+msgstr "2nd MMS Tel #"
+
+msgid "2nd Method"
+msgstr "2nd Method"
+
+msgid "2nd SMS Tel. No."
+msgstr "2nd SMS Tel. No."
+
+msgid "2nd Tel. No."
+msgstr "2nd Tel. No."
+
+msgid "2nd email"
+msgstr "2nd email"
+
+msgid "2nd mms tel #"
+msgstr "2nd mms tel #"
+
+msgid "3  minutes"
+msgstr "3  minutes"
+
+msgid "3 Phases Frequency"
+msgstr "3 Phases Frequency"
+
+msgid "3 attempts"
+msgstr "3 attempts"
+
+msgid "3 minutes"
+msgstr "3 minutes"
+
+msgid "3 phase 50 Hz"
+msgstr "3 phase 50 Hz"
+
+msgid "3 phase 60 Hz"
+msgstr "3 phase 60 Hz"
+
+msgid "3. Home Delay"
+msgstr "3. Home Delay"
+
+msgid "3. Perim-Follow"
+msgstr "3. Perim-Follow"
+
+msgid "30  minutes"
+msgstr "30  minutes"
+
+msgid "30 minutes"
+msgstr "30 minutes"
+
+msgid "30 seconds"
+msgstr "30 seconds"
+
+msgid "33  pps"
+msgstr "33  pps"
+
+msgid "3rd MMS Tel #"
+msgstr "3rd MMS Tel #"
+
+msgid "3rd Method"
+msgstr "3rd Method"
+
+msgid "3rd SMS Tel. No."
+msgstr "3rd SMS Tel. No."
+
+msgid "3rd Tel. No."
+msgstr "3rd Tel. No."
+
+msgid "3rd email"
+msgstr "3rd email"
+
+msgid "3rd mms tel #"
+msgstr "3rd mms tel #"
+
+msgid "4 attempts"
+msgstr "4 attempts"
+
+msgid "4 minutes"
+msgstr "4 minutes"
+
+msgid "4. Delay 1"
+msgstr "4. Delay 1"
+
+msgid "4. Inter-Follow"
+msgstr "4. Inter-Follow"
+
+msgid "4/2 Pulse Rate"
+msgstr "4/2 Pulse Rate"
+
+msgid "40  pps"
+msgstr "40  pps"
+
+msgid "40 minutes"
+msgstr "40 minutes"
+
+msgid "45 minutes"
+msgstr "45 minutes"
+
+msgid "45 seconds"
+msgstr "45 seconds"
+
+msgid "4rd Tel. No."
+msgstr "4rd Tel. No."
+
+msgid "4th MMS Tel #"
+msgstr "4th MMS Tel #"
+
+msgid "4th SMS Tel. No."
+msgstr "4th SMS Tel. No."
+
+msgid "4th Tel. No."
+msgstr "4th Tel. No."
+
+msgid "4th email"
+msgstr "4th email"
+
+msgid "4th mms tel #"
+msgstr "4th mms tel #"
+
+msgid "5   minutes"
+msgstr "5   minutes"
+
+msgid "5  minutes"
+msgstr "5  minutes"
+
+msgid "5 minutes"
+msgstr "5 minutes"
+
+msgid "5. Delay 2"
+msgstr "5. Delay 2"
+
+msgid "5. Interior"
+msgstr "5. Interior"
+
+msgid "6. 24h silent"
+msgstr "6. 24h silent"
+
+msgid "6. Perimeter"
+msgstr "6. Perimeter"
+
+msgid "60  minutes"
+msgstr "60  minutes"
+
+msgid "60 minutes"
+msgstr "60 minutes"
+
+msgid "60 seconds"
+msgstr "60 seconds"
+
+msgid "7 days"
+msgstr "7 days"
+
+msgid "7. 24h audible"
+msgstr "7. 24h audible"
+
+msgid "7. Perim-Follow"
+msgstr "7. Perim-Follow"
+
+msgid "7.2V"
+msgstr "7.2V"
+
+msgid "7.2V NiMH"
+msgstr "7.2V NiMH"
+
+msgid "8 attempts"
+msgstr "8 attempts"
+
+msgid "8 minutes"
+msgstr "8 minutes"
+
+msgid "8. 24h silent"
+msgstr "8. 24h silent"
+
+msgid "8. Fire"
+msgstr "8. Fire"
+
+msgid "9. 24h audible"
+msgstr "9. 24h audible"
+
+msgid "9. Non-alarm"
+msgstr "9. Non-alarm"
+
+msgid "9.6V"
+msgstr "9.6V"
+
+msgid "9.6V NiMH"
+msgstr "9.6V NiMH"
+
+msgid "90 minutes"
+msgstr "90 minutes"
+
+msgid "90 seconds"
+msgstr "90 seconds"
+
+msgid "AC Failure Report"
+msgstr "AC Failure Report"
+
+msgid "AWAY only"
+msgstr "AWAY only"
+
+msgid "Abort Fire Time"
+msgstr "Abort Fire Time"
+
+msgid "Abort Time"
+msgstr "Abort Time"
+
+msgid "Abort anounce"
+msgstr "Abort anounce"
+
+msgid "Abort time"
+msgstr "Abort time"
+
+msgid "Add to Soak Test"
+msgstr "Add to Soak Test"
+
+msgid "Alarm + 1 hour"
+msgstr "Alarm + 1 hour"
+
+msgid "Alarm + 15 min."
+msgstr "Alarm + 15 min."
+
+msgid "Alarm + 5 min."
+msgstr "Alarm + 5 min."
+
+msgid "Alarm Cancel Time"
+msgstr "Alarm Cancel Time"
+
+msgid "Alarm Hours"
+msgstr "Alarm Hours"
+
+msgid "Alarm Reset"
+msgstr "Alarm Reset"
+
+msgid "Alarm Tel. number"
+msgstr "Alarm Tel. number"
+
+msgid "Alarm Tel.number"
+msgstr "Alarm Tel.number"
+
+msgid "Alarm cancel time"
+msgstr "Alarm cancel time"
+
+msgid "All Partitions"
+msgstr "All Partitions"
+
+msgid "All Tampers"
+msgstr "All Tampers"
+
+msgid "Always"
+msgstr "Always"
+
+msgid "Ambient Level"
+msgstr "Ambient Level"
+
+msgid "Area Code"
+msgstr "Area Code"
+
+msgid "Arm AWAY"
+msgstr "Arm AWAY"
+
+msgid "Arm HOME"
+msgstr "Arm HOME"
+
+msgid "Arm Instant"
+msgstr "Arm Instant"
+
+msgid "Arm Station 1"
+msgstr "Arm Station 1"
+
+msgid "Arm Station 2"
+msgstr "Arm Station 2"
+
+msgid "Arming Key"
+msgstr "Arming Key"
+
+msgid "Attic"
+msgstr "Attic"
+
+msgid "Auto Arm Option"
+msgstr "Auto Arm Option"
+
+msgid "Auto Arm Time"
+msgstr "Auto Arm Time"
+
+msgid "Autotest Cycle"
+msgstr "Autotest Cycle"
+
+msgid "Autotest Time"
+msgstr "Autotest Time"
+
+msgid "Aux Input"
+msgstr "Aux Input"
+
+msgid "Auxiliary Keyfob Button 1"
+msgstr "Auxiliary Keyfob Button 1"
+
+msgid "Auxiliary Keyfob Button 2"
+msgstr "Auxiliary Keyfob Button 2"
+
+msgid "BBA first"
+msgstr "BBA first"
+
+msgid "BS8243"
+msgstr "BS8243"
+
+msgid "BS8243 no cnfrm"
+msgstr "BS8243 no cnfrm"
+
+msgid "Back Light Time"
+msgstr "Back Light Time"
+
+msgid "Back door"
+msgstr "Back door"
+
+msgid "Basement"
+msgstr "Basement"
+
+msgid "Bathroom"
+msgstr "Bathroom"
+
+msgid "Battery Cover"
+msgstr "Battery Cover"
+
+msgid "Battery Only"
+msgstr "Battery Only"
+
+msgid "Battery type"
+msgstr "Battery type"
+
+msgid "Bedroom"
+msgstr "Bedroom"
+
+msgid "Behaviour By Zone A"
+msgstr "Behaviour By Zone A"
+
+msgid "Behaviour By Zone B"
+msgstr "Behaviour By Zone B"
+
+msgid "Behaviour By Zone C"
+msgstr "Behaviour By Zone C"
+
+msgid "Bell Report Option"
+msgstr "Bell Report Option"
+
+msgid "Bell Time"
+msgstr "Bell Time"
+
+msgid "Black   White"
+msgstr "Black   White"
+
+msgid "Black  White"
+msgstr "Black  White"
+
+msgid "British Standard Active Mode"
+msgstr "British Standard Active Mode"
+
+msgid "British Standard_243"
+msgstr "British Standard_243"
+
+msgid "British Standard_8243"
+msgstr "British Standard_8243"
+
+msgid "British Standard_BS8243"
+msgstr "British Standard_BS8243"
+
+msgid "British Standard_DD243"
+msgstr "British Standard_DD243"
+
+msgid "British Standard_active_mode"
+msgstr "British Standard_active_mode"
+
+msgid "Broadband Failure Report"
+msgstr "Broadband Failure Report"
+
+msgid "Button(*)"
+msgstr "Button(*)"
+
+msgid "By Arm Away"
+msgstr "By Arm Away"
+
+msgid "By Arm Home"
+msgstr "By Arm Home"
+
+msgid "By Delay"
+msgstr "By Delay"
+
+msgid "By Disarm"
+msgstr "By Disarm"
+
+msgid "By Keyfob"
+msgstr "By Keyfob"
+
+msgid "By Memory"
+msgstr "By Memory"
+
+msgid "Bypass"
+msgstr "Bypass"
+
+msgid "CO"
+msgstr "CO"
+
+msgid "COMMUNICATION SETTINGS"
+msgstr "COMMUNICATION SETTINGS"
+
+msgid "CP-01"
+msgstr "CP-01"
+
+msgid "CP-01 Setup"
+msgstr "CP-01 Setup"
+
+msgid "CP01"
+msgstr "CP01"
+
+msgid "Call waiting code off"
+msgstr "Call waiting code off"
+
+msgid "Cancel Alarm"
+msgstr "Cancel Alarm"
+
+msgid "Cancel anounce"
+msgstr "Cancel anounce"
+
+msgid "Cellular Failure Report"
+msgstr "Cellular Failure Report"
+
+msgid "Central Station Reporting"
+msgstr "Central Station Reporting"
+
+msgid "Child room"
+msgstr "Child room"
+
+msgid "Chime"
+msgstr "Chime"
+
+msgid "Class 6 (30/60)"
+msgstr "Class 6 (30/60)"
+
+msgid "Clock - by Code"
+msgstr "Clock - by Code"
+
+msgid "Clock - by Key"
+msgstr "Clock - by Key"
+
+msgid "Clock by Code"
+msgstr "Clock by Code"
+
+msgid "Clock by Key"
+msgstr "Clock by Key"
+
+msgid "Closet"
+msgstr "Closet"
+
+msgid "Code"
+msgstr "Code"
+
+msgid "Code Version"
+msgstr "Code Version"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Communication Failure Report"
+msgstr "Communication Failure Report"
+
+msgid "Confirm Alarm Timer"
+msgstr "Confirm Alarm Timer"
+
+msgid "Connected to AC"
+msgstr "Connected to AC"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Contact Aux"
+msgstr "Contact Aux"
+
+msgid "Contact+1in"
+msgstr "Contact+1in"
+
+msgid "Cross Zoning"
+msgstr "Cross Zoning"
+
+msgid "Current Battery Charge"
+msgstr "Current Battery Charge"
+
+msgid "Curtain"
+msgstr "Curtain"
+
+msgid "Custom 1"
+msgstr "Custom 1"
+
+msgid "Custom 2"
+msgstr "Custom 2"
+
+msgid "Custom 3"
+msgstr "Custom 3"
+
+msgid "Custom 4"
+msgstr "Custom 4"
+
+msgid "Custom 5"
+msgstr "Custom 5"
+
+msgid "DATE DD/MM/YYYY"
+msgstr "DATE DD/MM/YYYY"
+
+msgid "DATE MM/DD/YYYY"
+msgstr "DATE MM/DD/YYYY"
+
+msgid "DD243"
+msgstr "DD243"
+
+msgid "DISARM   AWAY"
+msgstr "DISARM   AWAY"
+
+msgid "DISARM   HOME"
+msgstr "DISARM   HOME"
+
+msgid "DISARM & AWAY"
+msgstr "DISARM & AWAY"
+
+msgid "DISARM & HOME"
+msgstr "DISARM & HOME"
+
+msgid "DISARM only"
+msgstr "DISARM only"
+
+msgid "Date dd/mm/yyyy"
+msgstr "Date dd/mm/yyyy"
+
+msgid "Date mm/dd/yyyy"
+msgstr "Date mm/dd/yyyy"
+
+msgid "Day and Night"
+msgstr "Day and Night"
+
+msgid "Define Arm Station"
+msgstr "Define Arm Station"
+
+msgid "Define INT/Strobe"
+msgstr "Define INT/Strobe"
+
+msgid "Define Outputs"
+msgstr "Define Outputs"
+
+msgid "Define PGM"
+msgstr "Define PGM"
+
+msgid "Define Voice"
+msgstr "Define Voice"
+
+msgid "Den"
+msgstr "Den"
+
+msgid "Detector Params 1"
+msgstr "Detector Params 1"
+
+msgid "Detector Params 10"
+msgstr "Detector Params 10"
+
+msgid "Detector Params 11"
+msgstr "Detector Params 11"
+
+msgid "Detector Params 12"
+msgstr "Detector Params 12"
+
+msgid "Detector Params 13"
+msgstr "Detector Params 13"
+
+msgid "Detector Params 14"
+msgstr "Detector Params 14"
+
+msgid "Detector Params 15"
+msgstr "Detector Params 15"
+
+msgid "Detector Params 16"
+msgstr "Detector Params 16"
+
+msgid "Detector Params 17"
+msgstr "Detector Params 17"
+
+msgid "Detector Params 18"
+msgstr "Detector Params 18"
+
+msgid "Detector Params 19"
+msgstr "Detector Params 19"
+
+msgid "Detector Params 2"
+msgstr "Detector Params 2"
+
+msgid "Detector Params 20"
+msgstr "Detector Params 20"
+
+msgid "Detector Params 21"
+msgstr "Detector Params 21"
+
+msgid "Detector Params 22"
+msgstr "Detector Params 22"
+
+msgid "Detector Params 23"
+msgstr "Detector Params 23"
+
+msgid "Detector Params 24"
+msgstr "Detector Params 24"
+
+msgid "Detector Params 25"
+msgstr "Detector Params 25"
+
+msgid "Detector Params 26"
+msgstr "Detector Params 26"
+
+msgid "Detector Params 27"
+msgstr "Detector Params 27"
+
+msgid "Detector Params 28"
+msgstr "Detector Params 28"
+
+msgid "Detector Params 29"
+msgstr "Detector Params 29"
+
+msgid "Detector Params 3"
+msgstr "Detector Params 3"
+
+msgid "Detector Params 30"
+msgstr "Detector Params 30"
+
+msgid "Detector Params 4"
+msgstr "Detector Params 4"
+
+msgid "Detector Params 5"
+msgstr "Detector Params 5"
+
+msgid "Detector Params 6"
+msgstr "Detector Params 6"
+
+msgid "Detector Params 7"
+msgstr "Detector Params 7"
+
+msgid "Detector Params 8"
+msgstr "Detector Params 8"
+
+msgid "Detector Params 9"
+msgstr "Detector Params 9"
+
+msgid "Detectors"
+msgstr "Detectors"
+
+msgid "Dialing Method"
+msgstr "Dialing Method"
+
+msgid "Dining room"
+msgstr "Dining room"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "Disable        "
+msgstr "Disable        "
+
+msgid "Disable test"
+msgstr "Disable test"
+
+msgid "Disabled"
+msgstr "Disabled"
+
+msgid "Disabled @ Home"
+msgstr "Disabled @ Home"
+
+msgid "Disarm Option"
+msgstr "Disarm Option"
+
+msgid "Disguise Mode"
+msgstr "Disguise Mode"
+
+msgid "Double EOL"
+msgstr "Double EOL"
+
+msgid "Downstairs"
+msgstr "Downstairs"
+
+msgid "Dual Reporting"
+msgstr "Dual Reporting"
+
+msgid "Duress"
+msgstr "Duress"
+
+msgid "EN 30/60"
+msgstr "EN 30/60"
+
+msgid "EN Standard"
+msgstr "EN Standard"
+
+msgid "EN standard"
+msgstr "EN standard"
+
+msgid "EN-50131"
+msgstr "EN-50131"
+
+msgid "EOL-End Of Line"
+msgstr "EOL-End Of Line"
+
+msgid "EU FORMAT-24H"
+msgstr "EU FORMAT-24H"
+
+msgid "EU Format-24H"
+msgstr "EU Format-24H"
+
+msgid "Emergency"
+msgstr "Emergency"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Enable "
+msgstr "Enable "
+
+msgid "Enable         "
+msgstr "Enable         "
+
+msgid "Enable all"
+msgstr "Enable all"
+
+msgid "Enable test"
+msgstr "Enable test"
+
+msgid "Enabled"
+msgstr "Enabled"
+
+msgid "End exit mode"
+msgstr "End exit mode"
+
+msgid "End of Line"
+msgstr "End of Line"
+
+msgid "Enroll"
+msgstr "Enroll"
+
+msgid "Enrolled"
+msgstr "Enrolled"
+
+msgid "Enrolled ID"
+msgstr "Enrolled ID"
+
+msgid "Enrolled id"
+msgstr "Enrolled id"
+
+msgid "Enrolling Type"
+msgstr "Enrolling Type"
+
+msgid "Entry Delay 1"
+msgstr "Entry Delay 1"
+
+msgid "Entry Delay 2"
+msgstr "Entry Delay 2"
+
+msgid "Entry delay 1"
+msgstr "Entry delay 1"
+
+msgid "Entry delay 2"
+msgstr "Entry delay 2"
+
+msgid "Eur(dd/mm/yyyy)"
+msgstr "Eur(dd/mm/yyyy)"
+
+msgid "Europe (hh:mm)"
+msgstr "Europe (hh:mm)"
+
+msgid "Every 28 days"
+msgstr "Every 28 days"
+
+msgid "Exit Delay"
+msgstr "Exit Delay"
+
+msgid "Exit Mode"
+msgstr "Exit Mode"
+
+msgid "Exit-Entry Beeps"
+msgstr "Exit-Entry Beeps"
+
+msgid "External anten."
+msgstr "External anten."
+
+msgid "Fail Report"
+msgstr "Fail Report"
+
+msgid "Film Report Channel"
+msgstr "Film Report Channel"
+
+msgid "Fire"
+msgstr "Fire"
+
+msgid "Flash on Alarm"
+msgstr "Flash on Alarm"
+
+msgid "Flood"
+msgstr "Flood"
+
+msgid "Force Home Network"
+msgstr "Force Home Network"
+
+msgid "Front door"
+msgstr "Front door"
+
+msgid "GPRS APN"
+msgstr "GPRS APN"
+
+msgid "GPRS Always ON"
+msgstr "GPRS Always ON"
+
+msgid "GPRS Comm/BB"
+msgstr "GPRS Comm/BB"
+
+msgid "GPRS Password"
+msgstr "GPRS Password"
+
+msgid "GPRS Report"
+msgstr "GPRS Report"
+
+msgid "GPRS Up/Down"
+msgstr "GPRS Up/Down"
+
+msgid "GPRS User Name"
+msgstr "GPRS User Name"
+
+msgid "GSM Keep Alive"
+msgstr "GSM Keep Alive"
+
+msgid "GSM Report"
+msgstr "GSM Report"
+
+msgid "GSM Report Retry"
+msgstr "GSM Report Retry"
+
+msgid "GSM/GPRS Failure Report"
+msgstr "GSM/GPRS Failure Report"
+
+msgid "GSM/GPRS/SMS"
+msgstr "GSM/GPRS/SMS"
+
+msgid "Garage"
+msgstr "Garage"
+
+msgid "Garage door"
+msgstr "Garage door"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Gas CO"
+msgstr "Gas CO"
+
+msgid "Glass Break"
+msgstr "Glass Break"
+
+msgid "Guard code"
+msgstr "Guard code"
+
+msgid "Guest room"
+msgstr "Guest room"
+
+msgid "HIGH"
+msgstr "HIGH"
+
+msgid "HIGH sensitive"
+msgstr "HIGH sensitive"
+
+msgid "HOME   AWAY"
+msgstr "HOME   AWAY"
+
+msgid "HOME only"
+msgstr "HOME only"
+
+msgid "Hall"
+msgstr "Hall"
+
+msgid "Hard Wired"
+msgstr "Hard Wired"
+
+msgid "INT/Strobe Define"
+msgstr "INT/Strobe Define"
+
+msgid "I__voice_box_mode"
+msgstr "I__voice_box_mode"
+
+msgid "Image Forward"
+msgstr "Image Forward"
+
+msgid "Image Forwarding"
+msgstr "Image Forwarding"
+
+msgid "Image On Demand"
+msgstr "Image On Demand"
+
+msgid "Image QUALITY"
+msgstr "Image QUALITY"
+
+msgid "In enrolling proccess"
+msgstr "In enrolling proccess"
+
+msgid "Inactive Alert"
+msgstr "Inactive Alert"
+
+msgid "Installer Code"
+msgstr "Installer Code"
+
+msgid "Installer Download Code"
+msgstr "Installer Download Code"
+
+msgid "Installer/Master Code"
+msgstr "Installer/Master Code"
+
+msgid "Internal anten."
+msgstr "Internal anten."
+
+msgid "Invalid Subtype"
+msgstr "Invalid Subtype"
+
+msgid "Invalid Suptype"
+msgstr "Invalid Suptype"
+
+msgid "Jamming Detection"
+msgstr "Jamming Detection"
+
+msgid "Keyfob $(i+1)"
+msgstr "Keyfob $(i+1)"
+
+msgid "Keyfob Params $(i+1)"
+msgstr "Keyfob Params $(i+1)"
+
+msgid "Keyfob Params 1"
+msgstr "Keyfob Params 1"
+
+msgid "Keyfob Params 10"
+msgstr "Keyfob Params 10"
+
+msgid "Keyfob Params 11"
+msgstr "Keyfob Params 11"
+
+msgid "Keyfob Params 12"
+msgstr "Keyfob Params 12"
+
+msgid "Keyfob Params 13"
+msgstr "Keyfob Params 13"
+
+msgid "Keyfob Params 14"
+msgstr "Keyfob Params 14"
+
+msgid "Keyfob Params 15"
+msgstr "Keyfob Params 15"
+
+msgid "Keyfob Params 16"
+msgstr "Keyfob Params 16"
+
+msgid "Keyfob Params 17"
+msgstr "Keyfob Params 17"
+
+msgid "Keyfob Params 18"
+msgstr "Keyfob Params 18"
+
+msgid "Keyfob Params 19"
+msgstr "Keyfob Params 19"
+
+msgid "Keyfob Params 2"
+msgstr "Keyfob Params 2"
+
+msgid "Keyfob Params 20"
+msgstr "Keyfob Params 20"
+
+msgid "Keyfob Params 21"
+msgstr "Keyfob Params 21"
+
+msgid "Keyfob Params 22"
+msgstr "Keyfob Params 22"
+
+msgid "Keyfob Params 23"
+msgstr "Keyfob Params 23"
+
+msgid "Keyfob Params 24"
+msgstr "Keyfob Params 24"
+
+msgid "Keyfob Params 25"
+msgstr "Keyfob Params 25"
+
+msgid "Keyfob Params 26"
+msgstr "Keyfob Params 26"
+
+msgid "Keyfob Params 27"
+msgstr "Keyfob Params 27"
+
+msgid "Keyfob Params 28"
+msgstr "Keyfob Params 28"
+
+msgid "Keyfob Params 29"
+msgstr "Keyfob Params 29"
+
+msgid "Keyfob Params 3"
+msgstr "Keyfob Params 3"
+
+msgid "Keyfob Params 30"
+msgstr "Keyfob Params 30"
+
+msgid "Keyfob Params 31"
+msgstr "Keyfob Params 31"
+
+msgid "Keyfob Params 32"
+msgstr "Keyfob Params 32"
+
+msgid "Keyfob Params 4"
+msgstr "Keyfob Params 4"
+
+msgid "Keyfob Params 5"
+msgstr "Keyfob Params 5"
+
+msgid "Keyfob Params 6"
+msgstr "Keyfob Params 6"
+
+msgid "Keyfob Params 7"
+msgstr "Keyfob Params 7"
+
+msgid "Keyfob Params 8"
+msgstr "Keyfob Params 8"
+
+msgid "Keyfob Params 9"
+msgstr "Keyfob Params 9"
+
+msgid "Keyfob Partition"
+msgstr "Keyfob Partition"
+
+msgid "Keyfob enrolled partition"
+msgstr "Keyfob enrolled partition"
+
+msgid "Keyfob enrolment 1"
+msgstr "Keyfob enrolment 1"
+
+msgid "Keyfob enrolment 2"
+msgstr "Keyfob enrolment 2"
+
+msgid "Keyfob enrolment 3"
+msgstr "Keyfob enrolment 3"
+
+msgid "Keyfob enrolment 4"
+msgstr "Keyfob enrolment 4"
+
+msgid "Keyfob enrolment 5"
+msgstr "Keyfob enrolment 5"
+
+msgid "Keyfob enrolment 6"
+msgstr "Keyfob enrolment 6"
+
+msgid "Keyfob enrolment 7"
+msgstr "Keyfob enrolment 7"
+
+msgid "Keyfob enrolment 8"
+msgstr "Keyfob enrolment 8"
+
+msgid "Keypad 1Way $(i+1)"
+msgstr "Keypad 1Way $(i+1)"
+
+msgid "Keypad 1Way 1"
+msgstr "Keypad 1Way 1"
+
+msgid "Keypad 1Way 2"
+msgstr "Keypad 1Way 2"
+
+msgid "Keypad 1Way 3"
+msgstr "Keypad 1Way 3"
+
+msgid "Keypad 1Way 4"
+msgstr "Keypad 1Way 4"
+
+msgid "Keypad 1Way 5"
+msgstr "Keypad 1Way 5"
+
+msgid "Keypad 1Way 6"
+msgstr "Keypad 1Way 6"
+
+msgid "Keypad 1Way 7"
+msgstr "Keypad 1Way 7"
+
+msgid "Keypad 1Way 8"
+msgstr "Keypad 1Way 8"
+
+msgid "Keypad Params $(i+1)"
+msgstr "Keypad Params $(i+1)"
+
+msgid "Keypad Params 1"
+msgstr "Keypad Params 1"
+
+msgid "Keypad Params 10"
+msgstr "Keypad Params 10"
+
+msgid "Keypad Params 11"
+msgstr "Keypad Params 11"
+
+msgid "Keypad Params 12"
+msgstr "Keypad Params 12"
+
+msgid "Keypad Params 13"
+msgstr "Keypad Params 13"
+
+msgid "Keypad Params 14"
+msgstr "Keypad Params 14"
+
+msgid "Keypad Params 15"
+msgstr "Keypad Params 15"
+
+msgid "Keypad Params 16"
+msgstr "Keypad Params 16"
+
+msgid "Keypad Params 17"
+msgstr "Keypad Params 17"
+
+msgid "Keypad Params 18"
+msgstr "Keypad Params 18"
+
+msgid "Keypad Params 19"
+msgstr "Keypad Params 19"
+
+msgid "Keypad Params 2"
+msgstr "Keypad Params 2"
+
+msgid "Keypad Params 20"
+msgstr "Keypad Params 20"
+
+msgid "Keypad Params 21"
+msgstr "Keypad Params 21"
+
+msgid "Keypad Params 22"
+msgstr "Keypad Params 22"
+
+msgid "Keypad Params 23"
+msgstr "Keypad Params 23"
+
+msgid "Keypad Params 24"
+msgstr "Keypad Params 24"
+
+msgid "Keypad Params 25"
+msgstr "Keypad Params 25"
+
+msgid "Keypad Params 26"
+msgstr "Keypad Params 26"
+
+msgid "Keypad Params 27"
+msgstr "Keypad Params 27"
+
+msgid "Keypad Params 28"
+msgstr "Keypad Params 28"
+
+msgid "Keypad Params 29"
+msgstr "Keypad Params 29"
+
+msgid "Keypad Params 3"
+msgstr "Keypad Params 3"
+
+msgid "Keypad Params 30"
+msgstr "Keypad Params 30"
+
+msgid "Keypad Params 31"
+msgstr "Keypad Params 31"
+
+msgid "Keypad Params 32"
+msgstr "Keypad Params 32"
+
+msgid "Keypad Params 4"
+msgstr "Keypad Params 4"
+
+msgid "Keypad Params 5"
+msgstr "Keypad Params 5"
+
+msgid "Keypad Params 6"
+msgstr "Keypad Params 6"
+
+msgid "Keypad Params 7"
+msgstr "Keypad Params 7"
+
+msgid "Keypad Params 8"
+msgstr "Keypad Params 8"
+
+msgid "Keypad Params 9"
+msgstr "Keypad Params 9"
+
+msgid "Keypad Partition"
+msgstr "Keypad Partition"
+
+msgid "Keypad one way  partition"
+msgstr "Keypad one way  partition"
+
+msgid "Keypad one way enrolled partition"
+msgstr "Keypad one way enrolled partition"
+
+msgid "Kitchen"
+msgstr "Kitchen"
+
+msgid "LAN Report Retry"
+msgstr "LAN Report Retry"
+
+msgid "LCD kPGR"
+msgstr "LCD kPGR"
+
+msgid "LCD keypad"
+msgstr "LCD keypad"
+
+msgid "LED OFF"
+msgstr "LED OFF"
+
+msgid "LED ON"
+msgstr "LED ON"
+
+msgid "LOW sensitive"
+msgstr "LOW sensitive"
+
+msgid "Latchkey Arming"
+msgstr "Latchkey Arming"
+
+msgid "Laundry room"
+msgstr "Laundry room"
+
+msgid "Line Fail Report"
+msgstr "Line Fail Report"
+
+msgid "Living room"
+msgstr "Living room"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Lockout Time"
+msgstr "Lockout Time"
+
+msgid "Lockout Time Start- hh:mm"
+msgstr "Lockout Time Start- hh:mm"
+
+msgid "Lockout Time Stop-  hh:mm"
+msgstr "Lockout Time Stop-  hh:mm"
+
+msgid "Low Battery Acknowledge"
+msgstr "Low Battery Acknowledge"
+
+msgid "MW Anti Masking"
+msgstr "MW Anti Masking"
+
+msgid "Magnetic AM"
+msgstr "Magnetic AM"
+
+msgid "Master Bdrm"
+msgstr "Master Bdrm"
+
+msgid "Master Code"
+msgstr "Master Code"
+
+msgid "Master Code/BIDI code"
+msgstr "Master Code/BIDI code"
+
+msgid "Master Download Code"
+msgstr "Master Download Code"
+
+msgid "Master bath"
+msgstr "Master bath"
+
+msgid "Maximum"
+msgstr "Maximum"
+
+msgid "Medium"
+msgstr "Medium"
+
+msgid "Memory Prompt"
+msgstr "Memory Prompt"
+
+msgid "Minimum"
+msgstr "Minimum"
+
+msgid "Missing Report"
+msgstr "Missing Report"
+
+msgid "Missing/Jamming Alarm"
+msgstr "Missing/Jamming Alarm"
+
+msgid "Motion"
+msgstr "Motion"
+
+msgid "Motion Camera"
+msgstr "Motion Camera"
+
+msgid "Motion Camera (Email)"
+msgstr "Motion Camera (Email)"
+
+msgid "Motion Camera (Tel)"
+msgstr "Motion Camera (Tel)"
+
+msgid "Motion Dual"
+msgstr "Motion Dual"
+
+msgid "Motion Outdoor"
+msgstr "Motion Outdoor"
+
+msgid "Motion_n_camera"
+msgstr "Motion_n_camera"
+
+msgid "Motion_n_energy"
+msgstr "Motion_n_energy"
+
+msgid "Motion_v_am"
+msgstr "Motion_v_am"
+
+msgid "My SIM Tel. #"
+msgstr "My SIM Tel. #"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "NO VOICE BOX"
+msgstr "NO VOICE BOX"
+
+msgid "NOT Active"
+msgstr "NOT Active"
+
+msgid "NOT Connected"
+msgstr "NOT Connected"
+
+msgid "Network Roaming"
+msgstr "Network Roaming"
+
+msgid "Night Only"
+msgstr "Night Only"
+
+msgid "No Activity Time"
+msgstr "No Activity Time"
+
+msgid "None"
+msgstr "None"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Normally Close"
+msgstr "Normally Close"
+
+msgid "Normally Open"
+msgstr "Normally Open"
+
+msgid "Normally close"
+msgstr "Normally close"
+
+msgid "Normally open"
+msgstr "Normally open"
+
+msgid "Not Ready"
+msgstr "Not Ready"
+
+msgid "Not Used"
+msgstr "Not Used"
+
+msgid "Not installed"
+msgstr "Not installed"
+
+msgid "OFF"
+msgstr "OFF"
+
+msgid "OFF @ Home"
+msgstr "OFF @ Home"
+
+msgid "OFF @ Night"
+msgstr "OFF @ Night"
+
+msgid "OFF after 10s"
+msgstr "OFF after 10s"
+
+msgid "OFF after 10sec"
+msgstr "OFF after 10sec"
+
+msgid "OFF at night"
+msgstr "OFF at night"
+
+msgid "OFF exit home"
+msgstr "OFF exit home"
+
+msgid "OFF when home"
+msgstr "OFF when home"
+
+msgid "ON"
+msgstr "ON"
+
+msgid "ON/OFF by SIREN"
+msgstr "ON/OFF by SIREN"
+
+msgid "Off  when Home"
+msgstr "Off  when Home"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "One Region"
+msgstr "One Region"
+
+msgid "Outdoor Antimasking"
+msgstr "Outdoor Antimasking"
+
+msgid "Outside Access Digit (Line Prefix)"
+msgstr "Outside Access Digit (Line Prefix)"
+
+msgid "PANEL DEFINITION"
+msgstr "PANEL DEFINITION"
+
+msgid "PGM"
+msgstr "PGM"
+
+msgid "PGM Behaviour By Zone A"
+msgstr "PGM Behaviour By Zone A"
+
+msgid "PGM Behaviour By Zone B"
+msgstr "PGM Behaviour By Zone B"
+
+msgid "PGM Behaviour By Zone C"
+msgstr "PGM Behaviour By Zone C"
+
+msgid "PGM General Definition"
+msgstr "PGM General Definition"
+
+msgid "PGM by Line Fail"
+msgstr "PGM by Line Fail"
+
+msgid "PGM/X-10"
+msgstr "PGM/X-10"
+
+msgid "PGM: by SIREN"
+msgstr "PGM: by SIREN"
+
+msgid "PSTN"
+msgstr "PSTN"
+
+msgid "PSTN   broadband"
+msgstr "PSTN   broadband"
+
+msgid "PSTN   broadbnd"
+msgstr "PSTN   broadbnd"
+
+msgid "PSTN   cellular"
+msgstr "PSTN   cellular"
+
+msgid "PSTN & broadband"
+msgstr "PSTN & broadband"
+
+msgid "PSTN & cellular"
+msgstr "PSTN & cellular"
+
+msgid "PSTN Failure Report"
+msgstr "PSTN Failure Report"
+
+msgid "PSTN Line Failure Report"
+msgstr "PSTN Line Failure Report"
+
+msgid "PSTN Report Retry"
+msgstr "PSTN Report Retry"
+
+msgid "PSTN Up/Down"
+msgstr "PSTN Up/Down"
+
+msgid "PSTN/GSM"
+msgstr "PSTN/GSM"
+
+msgid "Panel Accumulated"
+msgstr "Panel Accumulated"
+
+msgid "Panel Siren"
+msgstr "Panel Siren"
+
+msgid "Panic Alarm"
+msgstr "Panic Alarm"
+
+msgid "Partition"
+msgstr "Partition"
+
+msgid "Partition $(j+1)"
+msgstr "Partition $(j+1)"
+
+msgid "Partition 1"
+msgstr "Partition 1"
+
+msgid "Partition 1+2"
+msgstr "Partition 1+2"
+
+msgid "Partition 1+2+3"
+msgstr "Partition 1+2+3"
+
+msgid "Partition 1+3"
+msgstr "Partition 1+3"
+
+msgid "Partition 2"
+msgstr "Partition 2"
+
+msgid "Partition 2+3"
+msgstr "Partition 2+3"
+
+msgid "Partition 3"
+msgstr "Partition 3"
+
+msgid "Partition no."
+msgstr "Partition no."
+
+msgid "Partition set"
+msgstr "Partition set"
+
+msgid "Piezo Beeps"
+msgstr "Piezo Beeps"
+
+msgid "Piezo Beeps P1"
+msgstr "Piezo Beeps P1"
+
+msgid "Piezo Beeps P2"
+msgstr "Piezo Beeps P2"
+
+msgid "Piezo Beeps P3"
+msgstr "Piezo Beeps P3"
+
+msgid "Piezo Siren"
+msgstr "Piezo Siren"
+
+msgid "Piezo beeps"
+msgstr "Piezo beeps"
+
+msgid "Piezo beeps P1"
+msgstr "Piezo beeps P1"
+
+msgid "Piezo beeps P2"
+msgstr "Piezo beeps P2"
+
+msgid "Piezo beeps P3"
+msgstr "Piezo beeps P3"
+
+msgid "Pir Sensitivity"
+msgstr "Pir Sensitivity"
+
+msgid "Pre-Enrolled"
+msgstr "Pre-Enrolled"
+
+msgid "Pre-enroll"
+msgstr "Pre-enroll"
+
+msgid "Private Reporting"
+msgstr "Private Reporting"
+
+msgid "Private Telephone Acknowledge"
+msgstr "Private Telephone Acknowledge"
+
+msgid "Private Telephone Dialing Attempts"
+msgstr "Private Telephone Dialing Attempts"
+
+msgid "Pulse Time"
+msgstr "Pulse Time"
+
+msgid "Quick Arm"
+msgstr "Quick Arm"
+
+msgid "Receiver 1 Account No."
+msgstr "Receiver 1 Account No."
+
+msgid "Receiver 1 IP"
+msgstr "Receiver 1 IP"
+
+msgid "Receiver 1 SMS No."
+msgstr "Receiver 1 SMS No."
+
+msgid "Receiver 1 Tel. No."
+msgstr "Receiver 1 Tel. No."
+
+msgid "Receiver 2 Account No."
+msgstr "Receiver 2 Account No."
+
+msgid "Receiver 2 IP"
+msgstr "Receiver 2 IP"
+
+msgid "Receiver 2 SMS No."
+msgstr "Receiver 2 SMS No."
+
+msgid "Receiver 2 Tel. No."
+msgstr "Receiver 2 Tel. No."
+
+msgid "Recent Close Report"
+msgstr "Recent Close Report"
+
+msgid "Reed Switch"
+msgstr "Reed Switch"
+
+msgid "Reed Switch #1"
+msgstr "Reed Switch #1"
+
+msgid "Refresh - by Key"
+msgstr "Refresh - by Key"
+
+msgid "Refresh - by code"
+msgstr "Refresh - by code"
+
+msgid "Remote Access"
+msgstr "Remote Access"
+
+msgid "Report Confirmed Alarm"
+msgstr "Report Confirmed Alarm"
+
+msgid "Report Events to Central Station"
+msgstr "Report Events to Central Station"
+
+msgid "Report Format"
+msgstr "Report Format"
+
+msgid "Report on Fail to Central Station 1"
+msgstr "Report on Fail to Central Station 1"
+
+msgid "Report on Fail to Central Station 2"
+msgstr "Report on Fail to Central Station 2"
+
+msgid "Report on Fail to Pager"
+msgstr "Report on Fail to Pager"
+
+msgid "Report on Fail to Private"
+msgstr "Report on Fail to Private"
+
+msgid "Report on Fail to SMS"
+msgstr "Report on Fail to SMS"
+
+msgid "Reporting To Private Tel"
+msgstr "Reporting To Private Tel"
+
+msgid "Reset Option"
+msgstr "Reset Option"
+
+msgid "Resol.160 x 120"
+msgstr "Resol.160 x 120"
+
+msgid "Resol.320 x 240"
+msgstr "Resol.320 x 240"
+
+msgid "Rf-id#"
+msgstr "Rf-id#"
+
+msgid "Ringback Time"
+msgstr "Ringback Time"
+
+msgid "SIA"
+msgstr "SIA"
+
+msgid "SIA text"
+msgstr "SIA text"
+
+msgid "SIM PIN Code"
+msgstr "SIM PIN Code"
+
+msgid "SMS REPORT"
+msgstr "SMS REPORT"
+
+msgid "SMS Report"
+msgstr "SMS Report"
+
+msgid "SMS Report Tel."
+msgstr "SMS Report Tel."
+
+msgid "SMS Reported Events"
+msgstr "SMS Reported Events"
+
+msgid "Scancom"
+msgstr "Scancom"
+
+msgid "Screen Saver"
+msgstr "Screen Saver"
+
+msgid "Security Standard active mode"
+msgstr "Security Standard active mode"
+
+msgid "Security Standard_active_mode"
+msgstr "Security Standard_active_mode"
+
+msgid "Select GSM Antenna"
+msgstr "Select GSM Antenna"
+
+msgid "Select Mode"
+msgstr "Select Mode"
+
+msgid "Select mode"
+msgstr "Select mode"
+
+msgid "Send 2wv Code"
+msgstr "Send 2wv Code"
+
+msgid "Sensitive Level Panel"
+msgstr "Sensitive Level Panel"
+
+msgid "Session Timeout"
+msgstr "Session Timeout"
+
+msgid "Set Date Format"
+msgstr "Set Date Format"
+
+msgid "Set Date format"
+msgstr "Set Date format"
+
+msgid "Set House Code"
+msgstr "Set House Code"
+
+msgid "Set Time Format"
+msgstr "Set Time Format"
+
+msgid "Set Voice Option"
+msgstr "Set Voice Option"
+
+msgid "Shock+Aux."
+msgstr "Shock+Aux."
+
+msgid "Shock+Aux.+Contact AM"
+msgstr "Shock+Aux.+Contact AM"
+
+msgid "Shock+Contact G2"
+msgstr "Shock+Contact G2"
+
+msgid "Shock+Contact G3"
+msgstr "Shock+Contact G3"
+
+msgid "Show AC FAILURE"
+msgstr "Show AC FAILURE"
+
+msgid "Show MEM/TRBL"
+msgstr "Show MEM/TRBL"
+
+msgid "Siren Indoor"
+msgstr "Siren Indoor"
+
+msgid "Siren On Line"
+msgstr "Siren On Line"
+
+msgid "Siren Outdoor"
+msgstr "Siren Outdoor"
+
+msgid "Siren Outdoor AC"
+msgstr "Siren Outdoor AC"
+
+msgid "Siren Params $(i+1)"
+msgstr "Siren Params $(i+1)"
+
+msgid "Siren Params 1"
+msgstr "Siren Params 1"
+
+msgid "Siren Params 2"
+msgstr "Siren Params 2"
+
+msgid "Siren Params 3"
+msgstr "Siren Params 3"
+
+msgid "Siren Partition"
+msgstr "Siren Partition"
+
+msgid "Siren Time"
+msgstr "Siren Time"
+
+msgid "Skip exit delay"
+msgstr "Skip exit delay"
+
+msgid "Smoke"
+msgstr "Smoke"
+
+msgid "Smoke_n_heat"
+msgstr "Smoke_n_heat"
+
+msgid "Soak period"
+msgstr "Soak period"
+
+msgid "Sounder Volume"
+msgstr "Sounder Volume"
+
+msgid "Sounder only"
+msgstr "Sounder only"
+
+msgid "Sounder+Strobe"
+msgstr "Sounder+Strobe"
+
+msgid "Squawk OFF"
+msgstr "Squawk OFF"
+
+msgid "Squawk ON"
+msgstr "Squawk ON"
+
+msgid "Squawk Option"
+msgstr "Squawk Option"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stop Beeps"
+msgstr "Stop Beeps"
+
+msgid "Strobe Time"
+msgstr "Strobe Time"
+
+msgid "Strobe only"
+msgstr "Strobe only"
+
+msgid "Strobe time"
+msgstr "Strobe time"
+
+msgid "Subtype"
+msgstr "Subtype"
+
+msgid "Subtype detector"
+msgstr "Subtype detector"
+
+msgid "Supervision"
+msgstr "Supervision"
+
+msgid "Supevision Interval"
+msgstr "Supevision Interval"
+
+msgid "Swinger Stop"
+msgstr "Swinger Stop"
+
+msgid "System Inactive Report"
+msgstr "System Inactive Report"
+
+msgid "TCP"
+msgstr "TCP"
+
+msgid "Tamper Option"
+msgstr "Tamper Option"
+
+msgid "Tamper Type"
+msgstr "Tamper Type"
+
+msgid "Tamper alarm"
+msgstr "Tamper alarm"
+
+msgid "Temperature"
+msgstr "Temperature"
+
+msgid "Text - by Key"
+msgstr "Text - by Key"
+
+msgid "Text - by code"
+msgstr "Text - by code"
+
+msgid "Timer limited"
+msgstr "Timer limited"
+
+msgid "Transfer Protocol"
+msgstr "Transfer Protocol"
+
+msgid "Trouble Beeps"
+msgstr "Trouble Beeps"
+
+msgid "Trouble Indication"
+msgstr "Trouble Indication"
+
+msgid "Trouble beeps"
+msgstr "Trouble beeps"
+
+msgid "Two-Way Voice To Central Stations"
+msgstr "Two-Way Voice To Central Stations"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "UDP"
+msgstr "UDP"
+
+msgid "UL 20/20"
+msgstr "UL 20/20"
+
+msgid "UP/Download"
+msgstr "UP/Download"
+
+msgid "US FORMAT-12H"
+msgstr "US FORMAT-12H"
+
+msgid "US Format-12H"
+msgstr "US Format-12H"
+
+msgid "USA (hh:mm AM/PM)"
+msgstr "USA (hh:mm AM/PM)"
+
+msgid "USA(mm-dd-yyyy)"
+msgstr "USA(mm-dd-yyyy)"
+
+msgid "USER CODES"
+msgstr "USER CODES"
+
+msgid "USER SETTINGS"
+msgstr "USER SETTINGS"
+
+msgid "Universal"
+msgstr "Universal"
+
+msgid "Until Disarmed"
+msgstr "Until Disarmed"
+
+msgid "Up/Download Tel. #"
+msgstr "Up/Download Tel. #"
+
+msgid "Upload Option"
+msgstr "Upload Option"
+
+msgid "Upstairs"
+msgstr "Upstairs"
+
+msgid "User Code 1"
+msgstr "User Code 1"
+
+msgid "User Code 2"
+msgstr "User Code 2"
+
+msgid "User Code 3"
+msgstr "User Code 3"
+
+msgid "User Code 4"
+msgstr "User Code 4"
+
+msgid "User Code 5"
+msgstr "User Code 5"
+
+msgid "User Code 6"
+msgstr "User Code 6"
+
+msgid "User Code 7"
+msgstr "User Code 7"
+
+msgid "User Code 8"
+msgstr "User Code 8"
+
+msgid "User Description $(i+1)"
+msgstr "User Description $(i+1)"
+
+msgid "User Description 1"
+msgstr "User Description 1"
+
+msgid "User Description 10"
+msgstr "User Description 10"
+
+msgid "User Description 11"
+msgstr "User Description 11"
+
+msgid "User Description 12"
+msgstr "User Description 12"
+
+msgid "User Description 13"
+msgstr "User Description 13"
+
+msgid "User Description 14"
+msgstr "User Description 14"
+
+msgid "User Description 15"
+msgstr "User Description 15"
+
+msgid "User Description 16"
+msgstr "User Description 16"
+
+msgid "User Description 17"
+msgstr "User Description 17"
+
+msgid "User Description 18"
+msgstr "User Description 18"
+
+msgid "User Description 19"
+msgstr "User Description 19"
+
+msgid "User Description 2"
+msgstr "User Description 2"
+
+msgid "User Description 20"
+msgstr "User Description 20"
+
+msgid "User Description 21"
+msgstr "User Description 21"
+
+msgid "User Description 22"
+msgstr "User Description 22"
+
+msgid "User Description 23"
+msgstr "User Description 23"
+
+msgid "User Description 24"
+msgstr "User Description 24"
+
+msgid "User Description 25"
+msgstr "User Description 25"
+
+msgid "User Description 26"
+msgstr "User Description 26"
+
+msgid "User Description 27"
+msgstr "User Description 27"
+
+msgid "User Description 28"
+msgstr "User Description 28"
+
+msgid "User Description 29"
+msgstr "User Description 29"
+
+msgid "User Description 3"
+msgstr "User Description 3"
+
+msgid "User Description 30"
+msgstr "User Description 30"
+
+msgid "User Description 31"
+msgstr "User Description 31"
+
+msgid "User Description 32"
+msgstr "User Description 32"
+
+msgid "User Description 33"
+msgstr "User Description 33"
+
+msgid "User Description 34"
+msgstr "User Description 34"
+
+msgid "User Description 35"
+msgstr "User Description 35"
+
+msgid "User Description 36"
+msgstr "User Description 36"
+
+msgid "User Description 37"
+msgstr "User Description 37"
+
+msgid "User Description 38"
+msgstr "User Description 38"
+
+msgid "User Description 39"
+msgstr "User Description 39"
+
+msgid "User Description 4"
+msgstr "User Description 4"
+
+msgid "User Description 40"
+msgstr "User Description 40"
+
+msgid "User Description 41"
+msgstr "User Description 41"
+
+msgid "User Description 42"
+msgstr "User Description 42"
+
+msgid "User Description 43"
+msgstr "User Description 43"
+
+msgid "User Description 44"
+msgstr "User Description 44"
+
+msgid "User Description 45"
+msgstr "User Description 45"
+
+msgid "User Description 46"
+msgstr "User Description 46"
+
+msgid "User Description 47"
+msgstr "User Description 47"
+
+msgid "User Description 48"
+msgstr "User Description 48"
+
+msgid "User Description 5"
+msgstr "User Description 5"
+
+msgid "User Description 6"
+msgstr "User Description 6"
+
+msgid "User Description 7"
+msgstr "User Description 7"
+
+msgid "User Description 8"
+msgstr "User Description 8"
+
+msgid "User Description 9"
+msgstr "User Description 9"
+
+msgid "User Partition"
+msgstr "User Partition"
+
+msgid "User Partition 10"
+msgstr "User Partition 10"
+
+msgid "User Partition 11"
+msgstr "User Partition 11"
+
+msgid "User Partition 12"
+msgstr "User Partition 12"
+
+msgid "User Partition 13"
+msgstr "User Partition 13"
+
+msgid "User Partition 14"
+msgstr "User Partition 14"
+
+msgid "User Partition 15"
+msgstr "User Partition 15"
+
+msgid "User Partition 16"
+msgstr "User Partition 16"
+
+msgid "User Partition 17"
+msgstr "User Partition 17"
+
+msgid "User Partition 18"
+msgstr "User Partition 18"
+
+msgid "User Partition 19"
+msgstr "User Partition 19"
+
+msgid "User Partition 2"
+msgstr "User Partition 2"
+
+msgid "User Partition 20"
+msgstr "User Partition 20"
+
+msgid "User Partition 21"
+msgstr "User Partition 21"
+
+msgid "User Partition 22"
+msgstr "User Partition 22"
+
+msgid "User Partition 23"
+msgstr "User Partition 23"
+
+msgid "User Partition 24"
+msgstr "User Partition 24"
+
+msgid "User Partition 25"
+msgstr "User Partition 25"
+
+msgid "User Partition 26"
+msgstr "User Partition 26"
+
+msgid "User Partition 27"
+msgstr "User Partition 27"
+
+msgid "User Partition 28"
+msgstr "User Partition 28"
+
+msgid "User Partition 29"
+msgstr "User Partition 29"
+
+msgid "User Partition 3"
+msgstr "User Partition 3"
+
+msgid "User Partition 30"
+msgstr "User Partition 30"
+
+msgid "User Partition 31"
+msgstr "User Partition 31"
+
+msgid "User Partition 32"
+msgstr "User Partition 32"
+
+msgid "User Partition 33"
+msgstr "User Partition 33"
+
+msgid "User Partition 34"
+msgstr "User Partition 34"
+
+msgid "User Partition 35"
+msgstr "User Partition 35"
+
+msgid "User Partition 36"
+msgstr "User Partition 36"
+
+msgid "User Partition 37"
+msgstr "User Partition 37"
+
+msgid "User Partition 38"
+msgstr "User Partition 38"
+
+msgid "User Partition 39"
+msgstr "User Partition 39"
+
+msgid "User Partition 4"
+msgstr "User Partition 4"
+
+msgid "User Partition 40"
+msgstr "User Partition 40"
+
+msgid "User Partition 41"
+msgstr "User Partition 41"
+
+msgid "User Partition 42"
+msgstr "User Partition 42"
+
+msgid "User Partition 43"
+msgstr "User Partition 43"
+
+msgid "User Partition 44"
+msgstr "User Partition 44"
+
+msgid "User Partition 45"
+msgstr "User Partition 45"
+
+msgid "User Partition 46"
+msgstr "User Partition 46"
+
+msgid "User Partition 47"
+msgstr "User Partition 47"
+
+msgid "User Partition 48"
+msgstr "User Partition 48"
+
+msgid "User Partition 5"
+msgstr "User Partition 5"
+
+msgid "User Partition 6"
+msgstr "User Partition 6"
+
+msgid "User Partition 7"
+msgstr "User Partition 7"
+
+msgid "User Partition 8"
+msgstr "User Partition 8"
+
+msgid "User Partition 9"
+msgstr "User Partition 9"
+
+msgid "User Permit"
+msgstr "User Permit"
+
+msgid "User partition"
+msgstr "User partition"
+
+msgid "Utility room"
+msgstr "Utility room"
+
+msgid "VOICE BOX MIXED"
+msgstr "VOICE BOX MIXED"
+
+msgid "VOICE BOX ONLY"
+msgstr "VOICE BOX ONLY"
+
+msgid "View On Demand"
+msgstr "View On Demand"
+
+msgid "View Other Alarm"
+msgstr "View Other Alarm"
+
+msgid "View Time Window"
+msgstr "View Time Window"
+
+msgid "Voice <  --   > Private"
+msgstr "Voice <  --   > Private"
+
+msgid "Voice Box Mode"
+msgstr "Voice Box Mode"
+
+msgid "Voice Report"
+msgstr "Voice Report"
+
+msgid "Voice Reported To Private"
+msgstr "Voice Reported To Private"
+
+msgid "Volume HIGH"
+msgstr "Volume HIGH"
+
+msgid "Volume LOW"
+msgstr "Volume LOW"
+
+msgid "Volume MID"
+msgstr "Volume MID"
+
+msgid "Wall Only"
+msgstr "Wall Only"
+
+msgid "Wired Sensor"
+msgstr "Wired Sensor"
+
+msgid "Wireless Devices"
+msgstr "Wireless Devices"
+
+msgid "X-10 General Definition"
+msgstr "X-10 General Definition"
+
+msgid "X10 $(i+1)"
+msgstr "X10 $(i+1)"
+
+msgid "X10 Unit Device Settings"
+msgstr "X10 Unit Device Settings"
+
+msgid "YES + 10m delay"
+msgstr "YES + 10m delay"
+
+msgid "YES + 15s delay"
+msgstr "YES + 15s delay"
+
+msgid "YES + 1m delay"
+msgstr "YES + 1m delay"
+
+msgid "YES + 20m delay"
+msgstr "YES + 20m delay"
+
+msgid "YES + 2m delay"
+msgstr "YES + 2m delay"
+
+msgid "YES + 30s delay"
+msgstr "YES + 30s delay"
+
+msgid "YES + 5m delay"
+msgstr "YES + 5m delay"
+
+msgid "YES + 5s delay"
+msgstr "YES + 5s delay"
+
+msgid "YES + 60m delay"
+msgstr "YES + 60m delay"
+
+msgid "YES - no delay"
+msgstr "YES - no delay"
+
+msgid "Yard"
+msgstr "Yard"
+
+msgid "ZONE DEFINITION"
+msgstr "ZONE DEFINITION"
+
+msgid "ZONES DEFINITION"
+msgstr "ZONES DEFINITION"
+
+msgid "Zone  1"
+msgstr "Zone  1"
+
+msgid "Zone  10"
+msgstr "Zone  10"
+
+msgid "Zone  11"
+msgstr "Zone  11"
+
+msgid "Zone  12"
+msgstr "Zone  12"
+
+msgid "Zone  13"
+msgstr "Zone  13"
+
+msgid "Zone  14"
+msgstr "Zone  14"
+
+msgid "Zone  15"
+msgstr "Zone  15"
+
+msgid "Zone  16"
+msgstr "Zone  16"
+
+msgid "Zone  17"
+msgstr "Zone  17"
+
+msgid "Zone  18"
+msgstr "Zone  18"
+
+msgid "Zone  19"
+msgstr "Zone  19"
+
+msgid "Zone  2"
+msgstr "Zone  2"
+
+msgid "Zone  20"
+msgstr "Zone  20"
+
+msgid "Zone  21"
+msgstr "Zone  21"
+
+msgid "Zone  22"
+msgstr "Zone  22"
+
+msgid "Zone  23"
+msgstr "Zone  23"
+
+msgid "Zone  24"
+msgstr "Zone  24"
+
+msgid "Zone  25"
+msgstr "Zone  25"
+
+msgid "Zone  26"
+msgstr "Zone  26"
+
+msgid "Zone  27"
+msgstr "Zone  27"
+
+msgid "Zone  28"
+msgstr "Zone  28"
+
+msgid "Zone  29"
+msgstr "Zone  29"
+
+msgid "Zone  3"
+msgstr "Zone  3"
+
+msgid "Zone  30"
+msgstr "Zone  30"
+
+msgid "Zone  31"
+msgstr "Zone  31"
+
+msgid "Zone  32"
+msgstr "Zone  32"
+
+msgid "Zone  33"
+msgstr "Zone  33"
+
+msgid "Zone  34"
+msgstr "Zone  34"
+
+msgid "Zone  35"
+msgstr "Zone  35"
+
+msgid "Zone  36"
+msgstr "Zone  36"
+
+msgid "Zone  37"
+msgstr "Zone  37"
+
+msgid "Zone  38"
+msgstr "Zone  38"
+
+msgid "Zone  39"
+msgstr "Zone  39"
+
+msgid "Zone  4"
+msgstr "Zone  4"
+
+msgid "Zone  40"
+msgstr "Zone  40"
+
+msgid "Zone  41"
+msgstr "Zone  41"
+
+msgid "Zone  42"
+msgstr "Zone  42"
+
+msgid "Zone  43"
+msgstr "Zone  43"
+
+msgid "Zone  44"
+msgstr "Zone  44"
+
+msgid "Zone  45"
+msgstr "Zone  45"
+
+msgid "Zone  46"
+msgstr "Zone  46"
+
+msgid "Zone  47"
+msgstr "Zone  47"
+
+msgid "Zone  48"
+msgstr "Zone  48"
+
+msgid "Zone  49"
+msgstr "Zone  49"
+
+msgid "Zone  5"
+msgstr "Zone  5"
+
+msgid "Zone  50"
+msgstr "Zone  50"
+
+msgid "Zone  51"
+msgstr "Zone  51"
+
+msgid "Zone  52"
+msgstr "Zone  52"
+
+msgid "Zone  53"
+msgstr "Zone  53"
+
+msgid "Zone  54"
+msgstr "Zone  54"
+
+msgid "Zone  55"
+msgstr "Zone  55"
+
+msgid "Zone  56"
+msgstr "Zone  56"
+
+msgid "Zone  57"
+msgstr "Zone  57"
+
+msgid "Zone  58"
+msgstr "Zone  58"
+
+msgid "Zone  59"
+msgstr "Zone  59"
+
+msgid "Zone  6"
+msgstr "Zone  6"
+
+msgid "Zone  60"
+msgstr "Zone  60"
+
+msgid "Zone  61"
+msgstr "Zone  61"
+
+msgid "Zone  62"
+msgstr "Zone  62"
+
+msgid "Zone  63"
+msgstr "Zone  63"
+
+msgid "Zone  64"
+msgstr "Zone  64"
+
+msgid "Zone  7"
+msgstr "Zone  7"
+
+msgid "Zone  8"
+msgstr "Zone  8"
+
+msgid "Zone  9"
+msgstr "Zone  9"
+
+msgid "Zone A"
+msgstr "Zone A"
+
+msgid "Zone B"
+msgstr "Zone B"
+
+msgid "Zone C"
+msgstr "Zone C"
+
+msgid "Zone Name"
+msgstr "Zone Name"
+
+msgid "Zone No. $(i+1)"
+msgstr "Zone No. $(i+1)"
+
+msgid "Zone No. 1"
+msgstr "Zone No. 1"
+
+msgid "Zone No. 10"
+msgstr "Zone No. 10"
+
+msgid "Zone No. 11"
+msgstr "Zone No. 11"
+
+msgid "Zone No. 12"
+msgstr "Zone No. 12"
+
+msgid "Zone No. 13"
+msgstr "Zone No. 13"
+
+msgid "Zone No. 14"
+msgstr "Zone No. 14"
+
+msgid "Zone No. 15"
+msgstr "Zone No. 15"
+
+msgid "Zone No. 16"
+msgstr "Zone No. 16"
+
+msgid "Zone No. 17"
+msgstr "Zone No. 17"
+
+msgid "Zone No. 18"
+msgstr "Zone No. 18"
+
+msgid "Zone No. 19"
+msgstr "Zone No. 19"
+
+msgid "Zone No. 2"
+msgstr "Zone No. 2"
+
+msgid "Zone No. 20"
+msgstr "Zone No. 20"
+
+msgid "Zone No. 21"
+msgstr "Zone No. 21"
+
+msgid "Zone No. 22"
+msgstr "Zone No. 22"
+
+msgid "Zone No. 23"
+msgstr "Zone No. 23"
+
+msgid "Zone No. 24"
+msgstr "Zone No. 24"
+
+msgid "Zone No. 25"
+msgstr "Zone No. 25"
+
+msgid "Zone No. 26"
+msgstr "Zone No. 26"
+
+msgid "Zone No. 27"
+msgstr "Zone No. 27"
+
+msgid "Zone No. 28"
+msgstr "Zone No. 28"
+
+msgid "Zone No. 29"
+msgstr "Zone No. 29"
+
+msgid "Zone No. 3"
+msgstr "Zone No. 3"
+
+msgid "Zone No. 30"
+msgstr "Zone No. 30"
+
+msgid "Zone No. 4"
+msgstr "Zone No. 4"
+
+msgid "Zone No. 5"
+msgstr "Zone No. 5"
+
+msgid "Zone No. 6"
+msgstr "Zone No. 6"
+
+msgid "Zone No. 7"
+msgstr "Zone No. 7"
+
+msgid "Zone No. 8"
+msgstr "Zone No. 8"
+
+msgid "Zone No. 9"
+msgstr "Zone No. 9"
+
+msgid "Zone Partition"
+msgstr "Zone Partition"
+
+msgid "Zone Restore"
+msgstr "Zone Restore"
+
+msgid "Zone Type"
+msgstr "Zone Type"
+
+msgid "Zone name"
+msgstr "Zone name"
+
+msgid "abort time 00s"
+msgstr "abort time 00s"
+
+msgid "abort time 15s"
+msgstr "abort time 15s"
+
+msgid "abort time 2m"
+msgstr "abort time 2m"
+
+msgid "abort time 30s"
+msgstr "abort time 30s"
+
+msgid "abort time 3m"
+msgstr "abort time 3m"
+
+msgid "abort time 45s"
+msgstr "abort time 45s"
+
+msgid "abort time 4m"
+msgstr "abort time 4m"
+
+msgid "abort time 60s"
+msgstr "abort time 60s"
+
+msgid "ac power"
+msgstr "ac power"
+
+msgid "ac power connect"
+msgstr "ac power connect"
+
+msgid "activate PULSE"
+msgstr "activate PULSE"
+
+msgid "active"
+msgstr "active"
+
+msgid "activity led"
+msgstr "activity led"
+
+msgid "after 1 alarm"
+msgstr "after 1 alarm"
+
+msgid "after 1 hour"
+msgstr "after 1 hour"
+
+msgid "after 12 hours"
+msgstr "after 12 hours"
+
+msgid "after 14 days"
+msgstr "after 14 days"
+
+msgid "after 15 min"
+msgstr "after 15 min"
+
+msgid "after 180 min"
+msgstr "after 180 min"
+
+msgid "after 2 alarms"
+msgstr "after 2 alarms"
+
+msgid "after 2 hours"
+msgstr "after 2 hours"
+
+msgid "after 2 min"
+msgstr "after 2 min"
+
+msgid "after 24 hours"
+msgstr "after 24 hours"
+
+msgid "after 3 alarms"
+msgstr "after 3 alarms"
+
+msgid "after 3 hours"
+msgstr "after 3 hours"
+
+msgid "after 30 days"
+msgstr "after 30 days"
+
+msgid "after 30 min"
+msgstr "after 30 min"
+
+msgid "after 30 minute"
+msgstr "after 30 minute"
+
+msgid "after 4 hours"
+msgstr "after 4 hours"
+
+msgid "after 48 hours"
+msgstr "after 48 hours"
+
+msgid "after 5 min"
+msgstr "after 5 min"
+
+msgid "after 5 minute"
+msgstr "after 5 minute"
+
+msgid "after 6 hours"
+msgstr "after 6 hours"
+
+msgid "after 60 min"
+msgstr "after 60 min"
+
+msgid "after 60 minute"
+msgstr "after 60 minute"
+
+msgid "after 7 days"
+msgstr "after 7 days"
+
+msgid "after 72 hours"
+msgstr "after 72 hours"
+
+msgid "after 8 hours"
+msgstr "after 8 hours"
+
+msgid "after 90 days"
+msgstr "after 90 days"
+
+msgid "alarm led"
+msgstr "alarm led"
+
+msgid "alarm led (magnet)"
+msgstr "alarm led (magnet)"
+
+msgid "alarm led (motion)"
+msgstr "alarm led (motion)"
+
+msgid "alarms"
+msgstr "alarms"
+
+msgid "alarms+alerts"
+msgstr "alarms+alerts"
+
+msgid "alerts"
+msgstr "alerts"
+
+msgid "all"
+msgstr "all"
+
+msgid "all    *all"
+msgstr "all    *all"
+
+msgid "all    *backup"
+msgstr "all    *backup"
+
+msgid "all (-alerts)"
+msgstr "all (-alerts)"
+
+msgid "all (-op/cl)"
+msgstr "all (-op/cl)"
+
+msgid "all ack"
+msgstr "all ack"
+
+msgid "all light flash"
+msgstr "all light flash"
+
+msgid "all(-alrt)*alrt"
+msgstr "all(-alrt)*alrt"
+
+msgid "all-o/c* backup"
+msgstr "all-o/c* backup"
+
+msgid "all-o/c*all-o/c"
+msgstr "all-o/c*all-o/c"
+
+msgid "all-o/c*o/c"
+msgstr "all-o/c*o/c"
+
+msgid "alrm*all(-alrm)"
+msgstr "alrm*all(-alrm)"
+
+msgid "always ON"
+msgstr "always ON"
+
+msgid "anti code reset"
+msgstr "anti code reset"
+
+msgid "anti-cloak"
+msgstr "anti-cloak"
+
+msgid "anti-masking-am"
+msgstr "anti-masking-am"
+
+msgid "any time"
+msgstr "any time"
+
+msgid "anytime/all dev"
+msgstr "anytime/all dev"
+
+msgid "audible"
+msgstr "audible"
+
+msgid "audible as panic"
+msgstr "audible as panic"
+
+msgid "audible panic"
+msgstr "audible panic"
+
+msgid "auto tamper alrm"
+msgstr "auto tamper alrm"
+
+msgid "aux a"
+msgstr "aux a"
+
+msgid "bell time 10m"
+msgstr "bell time 10m"
+
+msgid "bell time 15m"
+msgstr "bell time 15m"
+
+msgid "bell time 1m"
+msgstr "bell time 1m"
+
+msgid "bell time 20m"
+msgstr "bell time 20m"
+
+msgid "bell time 3m"
+msgstr "bell time 3m"
+
+msgid "bell time 4m"
+msgstr "bell time 4m"
+
+msgid "bell time 8m"
+msgstr "bell time 8m"
+
+msgid "both as burglary"
+msgstr "both as burglary"
+
+msgid "both as panic"
+msgstr "both as panic"
+
+msgid "broadband"
+msgstr "broadband"
+
+msgid "broadband & cellular"
+msgstr "broadband & cellular"
+
+msgid "broadbnd   cell"
+msgstr "broadbnd   cell"
+
+msgid "broadbnd   cellular"
+msgstr "broadbnd   cellular"
+
+msgid "burglary siren"
+msgstr "burglary siren"
+
+msgid "button (*)"
+msgstr "button (*)"
+
+msgid "by all ack"
+msgstr "by all ack"
+
+msgid "by engineer"
+msgstr "by engineer"
+
+msgid "by line fail NO"
+msgstr "by line fail NO"
+
+msgid "by line failYES"
+msgstr "by line failYES"
+
+msgid "by single ack"
+msgstr "by single ack"
+
+msgid "by tamper"
+msgstr "by tamper"
+
+msgid "by user"
+msgstr "by user"
+
+msgid "cameras in fire"
+msgstr "cameras in fire"
+
+msgid "cancel inactive"
+msgstr "cancel inactive"
+
+msgid "cancel time 15m"
+msgstr "cancel time 15m"
+
+msgid "cancel time 1m"
+msgstr "cancel time 1m"
+
+msgid "cancel time 4h"
+msgstr "cancel time 4h"
+
+msgid "cancel time 5m"
+msgstr "cancel time 5m"
+
+msgid "cancel time 60m"
+msgstr "cancel time 60m"
+
+msgid "cellular"
+msgstr "cellular"
+
+msgid "chime OFF"
+msgstr "chime OFF"
+
+msgid "cold   19°c"
+msgstr "cold   19°c"
+
+msgid "contact  ID"
+msgstr "contact  ID"
+
+msgid "cross zone OFF"
+msgstr "cross zone OFF"
+
+msgid "cross zone ON"
+msgstr "cross zone ON"
+
+msgid "disable"
+msgstr "disable"
+
+msgid "disable 3 phase"
+msgstr "disable 3 phase"
+
+msgid "disable autoarm"
+msgstr "disable autoarm"
+
+msgid "disable beeps"
+msgstr "disable beeps"
+
+msgid "disable on fail"
+msgstr "disable on fail"
+
+msgid "disable panic"
+msgstr "disable panic"
+
+msgid "disable prompts"
+msgstr "disable prompts"
+
+msgid "disable report"
+msgstr "disable report"
+
+msgid "disable two-way"
+msgstr "disable two-way"
+
+msgid "disabled"
+msgstr "disabled"
+
+msgid "disarm activity"
+msgstr "disarm activity"
+
+msgid "do not report"
+msgstr "do not report"
+
+msgid "don't indicate"
+msgstr "don't indicate"
+
+msgid "don't report"
+msgstr "don't report"
+
+msgid "don't send"
+msgstr "don't send"
+
+msgid "door/fob only"
+msgstr "door/fob only"
+
+msgid "door/fob/timer"
+msgstr "door/fob/timer"
+
+msgid "enable"
+msgstr "enable"
+
+msgid "enable  beeps"
+msgstr "enable  beeps"
+
+msgid "enable  on fail"
+msgstr "enable  on fail"
+
+msgid "enable  report"
+msgstr "enable  report"
+
+msgid "enable + bypass"
+msgstr "enable + bypass"
+
+msgid "enable autoarm"
+msgstr "enable autoarm"
+
+msgid "enable beeps"
+msgstr "enable beeps"
+
+msgid "enable prompts"
+msgstr "enable prompts"
+
+msgid "enable two-way"
+msgstr "enable two-way"
+
+msgid "enabled"
+msgstr "enabled"
+
+msgid "enabled+bypass"
+msgstr "enabled+bypass"
+
+msgid "end by exit"
+msgstr "end by exit"
+
+msgid "engineer reset"
+msgstr "engineer reset"
+
+msgid "entry + away kp"
+msgstr "entry + away kp"
+
+msgid "entry dly1 00s"
+msgstr "entry dly1 00s"
+
+msgid "entry dly1 15s"
+msgstr "entry dly1 15s"
+
+msgid "entry dly1 30s"
+msgstr "entry dly1 30s"
+
+msgid "entry dly1 3m"
+msgstr "entry dly1 3m"
+
+msgid "entry dly1 45s"
+msgstr "entry dly1 45s"
+
+msgid "entry dly1 4m"
+msgstr "entry dly1 4m"
+
+msgid "entry dly1 60s"
+msgstr "entry dly1 60s"
+
+msgid "entry dly2 00s"
+msgstr "entry dly2 00s"
+
+msgid "entry dly2 15s"
+msgstr "entry dly2 15s"
+
+msgid "entry dly2 30s"
+msgstr "entry dly2 30s"
+
+msgid "entry dly2 3m"
+msgstr "entry dly2 3m"
+
+msgid "entry dly2 45s"
+msgstr "entry dly2 45s"
+
+msgid "entry dly2 4m"
+msgstr "entry dly2 4m"
+
+msgid "entry dly2 60s"
+msgstr "entry dly2 60s"
+
+msgid "entry/BS devs"
+msgstr "entry/BS devs"
+
+msgid "entry/DD devs"
+msgstr "entry/DD devs"
+
+msgid "entry/all devs"
+msgstr "entry/all devs"
+
+msgid "entry/wl+awy kp"
+msgstr "entry/wl+awy kp"
+
+msgid "event counter"
+msgstr "event counter"
+
+msgid "every 1 day"
+msgstr "every 1 day"
+
+msgid "every 14 days"
+msgstr "every 14 days"
+
+msgid "every 2 days"
+msgstr "every 2 days"
+
+msgid "every 30 days"
+msgstr "every 30 days"
+
+msgid "every 5 days"
+msgstr "every 5 days"
+
+msgid "every 5 hours"
+msgstr "every 5 hours"
+
+msgid "every 7 days"
+msgstr "every 7 days"
+
+msgid "exit delay 120s"
+msgstr "exit delay 120s"
+
+msgid "exit delay 30s"
+msgstr "exit delay 30s"
+
+msgid "exit delay 3m"
+msgstr "exit delay 3m"
+
+msgid "exit delay 4m"
+msgstr "exit delay 4m"
+
+msgid "exit delay 60s"
+msgstr "exit delay 60s"
+
+msgid "exit delay 90s"
+msgstr "exit delay 90s"
+
+msgid "exit-entry beeps"
+msgstr "exit-entry beeps"
+
+msgid "factory default "
+msgstr "factory default "
+
+msgid "fire siren"
+msgstr "fire siren"
+
+msgid "flood siren"
+msgstr "flood siren"
+
+msgid "fob/timer"
+msgstr "fob/timer"
+
+msgid "force arm"
+msgstr "force arm"
+
+msgid "freezer   -10°c"
+msgstr "freezer   -10°c"
+
+msgid "freezing   7°c"
+msgstr "freezing   7°c"
+
+msgid "gas / co siren"
+msgstr "gas / co siren"
+
+msgid "high"
+msgstr "high"
+
+msgid "house code = A"
+msgstr "house code = A"
+
+msgid "house code = B"
+msgstr "house code = B"
+
+msgid "house code = C"
+msgstr "house code = C"
+
+msgid "house code = D"
+msgstr "house code = D"
+
+msgid "house code = E"
+msgstr "house code = E"
+
+msgid "house code = F"
+msgstr "house code = F"
+
+msgid "house code = G"
+msgstr "house code = G"
+
+msgid "house code = H"
+msgstr "house code = H"
+
+msgid "house code = I"
+msgstr "house code = I"
+
+msgid "house code = J"
+msgstr "house code = J"
+
+msgid "house code = K"
+msgstr "house code = K"
+
+msgid "house code = L"
+msgstr "house code = L"
+
+msgid "house code = M"
+msgstr "house code = M"
+
+msgid "house code = N"
+msgstr "house code = N"
+
+msgid "house code = O"
+msgstr "house code = O"
+
+msgid "house code = P"
+msgstr "house code = P"
+
+msgid "if missing dev."
+msgstr "if missing dev."
+
+msgid "image brightness"
+msgstr "image brightness"
+
+msgid "image color"
+msgstr "image color"
+
+msgid "image contrast"
+msgstr "image contrast"
+
+msgid "image resolution"
+msgstr "image resolution"
+
+msgid "immediat report"
+msgstr "immediat report"
+
+msgid "immediately"
+msgstr "immediately"
+
+msgid "in  0 seconds"
+msgstr "in  0 seconds"
+
+msgid "in 00 seconds"
+msgstr "in 00 seconds"
+
+msgid "in 1 minute"
+msgstr "in 1 minute"
+
+msgid "in 12 hours"
+msgstr "in 12 hours"
+
+msgid "in 15  minutes"
+msgstr "in 15  minutes"
+
+msgid "in 15 minutes"
+msgstr "in 15 minutes"
+
+msgid "in 15 seconds"
+msgstr "in 15 seconds"
+
+msgid "in 2 minutes"
+msgstr "in 2 minutes"
+
+msgid "in 20 hours"
+msgstr "in 20 hours"
+
+msgid "in 24 hours"
+msgstr "in 24 hours"
+
+msgid "in 3  minutes"
+msgstr "in 3  minutes"
+
+msgid "in 3 minutes"
+msgstr "in 3 minutes"
+
+msgid "in 30 minutes"
+msgstr "in 30 minutes"
+
+msgid "in 30 seconds"
+msgstr "in 30 seconds"
+
+msgid "in 4     hours"
+msgstr "in 4     hours"
+
+msgid "in 4  minutes"
+msgstr "in 4  minutes"
+
+msgid "in 4 hours"
+msgstr "in 4 hours"
+
+msgid "in 4 minutes"
+msgstr "in 4 minutes"
+
+msgid "in 45 minutes"
+msgstr "in 45 minutes"
+
+msgid "in 45 seconds"
+msgstr "in 45 seconds"
+
+msgid "in 5  minutes"
+msgstr "in 5  minutes"
+
+msgid "in 5 minutes"
+msgstr "in 5 minutes"
+
+msgid "in 60  minutes"
+msgstr "in 60  minutes"
+
+msgid "in 60 minutes"
+msgstr "in 60 minutes"
+
+msgid "in 60 seconds"
+msgstr "in 60 seconds"
+
+msgid "in 8 hours"
+msgstr "in 8 hours"
+
+msgid "in 90 minutes"
+msgstr "in 90 minutes"
+
+msgid "in AWAY only"
+msgstr "in AWAY only"
+
+msgid "in DISARM only"
+msgstr "in DISARM only"
+
+msgid "in HOME   AWAY"
+msgstr "in HOME   AWAY"
+
+msgid "in HOME & AWAY"
+msgstr "in HOME & AWAY"
+
+msgid "in HOME only"
+msgstr "in HOME only"
+
+msgid "in all modes"
+msgstr "in all modes"
+
+msgid "in supervision"
+msgstr "in supervision"
+
+msgid "indicate"
+msgstr "indicate"
+
+msgid "input #1"
+msgstr "input #1"
+
+msgid "instant"
+msgstr "instant"
+
+msgid "internal siren"
+msgstr "internal siren"
+
+msgid "keyfob"
+msgstr "keyfob"
+
+msgid "keyfob L-B off"
+msgstr "keyfob L-B off"
+
+msgid "keyfob L-B on"
+msgstr "keyfob L-B on"
+
+msgid "keyfob arm led"
+msgstr "keyfob arm led"
+
+msgid "keyfob arming station"
+msgstr "keyfob arming station"
+
+msgid "keypad"
+msgstr "keypad"
+
+msgid "latchkey OFF"
+msgstr "latchkey OFF"
+
+msgid "latchkey ON"
+msgstr "latchkey ON"
+
+msgid "low"
+msgstr "low"
+
+msgid "manual bypass"
+msgstr "manual bypass"
+
+msgid "melody-chime"
+msgstr "melody-chime"
+
+msgid "mic. settings"
+msgstr "mic. settings"
+
+msgid "microphone"
+msgstr "microphone"
+
+msgid "middle"
+msgstr "middle"
+
+msgid "mw range"
+msgstr "mw range"
+
+msgid "no act disable"
+msgstr "no act disable"
+
+msgid "no act time 12h"
+msgstr "no act time 12h"
+
+msgid "no act time 24h"
+msgstr "no act time 24h"
+
+msgid "no act time 3h"
+msgstr "no act time 3h"
+
+msgid "no act time 48h"
+msgstr "no act time 48h"
+
+msgid "no act time 6h"
+msgstr "no act time 6h"
+
+msgid "no act time 72h"
+msgstr "no act time 72h"
+
+msgid "no bypass"
+msgstr "no bypass"
+
+msgid "no flash"
+msgstr "no flash"
+
+msgid "no shutdown"
+msgstr "no shutdown"
+
+msgid "no stop"
+msgstr "no stop"
+
+msgid "normal"
+msgstr "normal"
+
+msgid "normal enroll"
+msgstr "normal enroll"
+
+msgid "not active"
+msgstr "not active"
+
+msgid "off at night"
+msgstr "off at night"
+
+msgid "off by door"
+msgstr "off by door"
+
+msgid "off on timeout"
+msgstr "off on timeout"
+
+msgid "off when home"
+msgstr "off when home"
+
+msgid "on entry all"
+msgstr "on entry all"
+
+msgid "on entry wrless"
+msgstr "on entry wrless"
+
+msgid "op/cl"
+msgstr "op/cl"
+
+msgid "other"
+msgstr "other"
+
+msgid "piezo siren OFF"
+msgstr "piezo siren OFF"
+
+msgid "piezo siren ON"
+msgstr "piezo siren ON"
+
+msgid "pir range"
+msgstr "pir range"
+
+msgid "pre-enroll"
+msgstr "pre-enroll"
+
+msgid "prox keypad"
+msgstr "prox keypad"
+
+msgid "pulse"
+msgstr "pulse"
+
+msgid "pulse active"
+msgstr "pulse active"
+
+msgid "pulse time 2m"
+msgstr "pulse time 2m"
+
+msgid "pulse time 2s"
+msgstr "pulse time 2s"
+
+msgid "pulse time 30s"
+msgstr "pulse time 30s"
+
+msgid "pulse time 4m"
+msgstr "pulse time 4m"
+
+msgid "quick arm  OFF"
+msgstr "quick arm  OFF"
+
+msgid "quick arm  ON"
+msgstr "quick arm  ON"
+
+msgid "recent cl. OFF"
+msgstr "recent cl. OFF"
+
+msgid "recent cl. ON"
+msgstr "recent cl. ON"
+
+msgid "refresh by Code"
+msgstr "refresh by Code"
+
+msgid "refresh by Key"
+msgstr "refresh by Key"
+
+msgid "rem. access OFF"
+msgstr "rem. access OFF"
+
+msgid "rem. access ON"
+msgstr "rem. access ON"
+
+msgid "rep. after  7d"
+msgstr "rep. after  7d"
+
+msgid "rep. after 14d"
+msgstr "rep. after 14d"
+
+msgid "rep. after 30d"
+msgstr "rep. after 30d"
+
+msgid "rep. after 90d"
+msgstr "rep. after 90d"
+
+msgid "report disabled"
+msgstr "report disabled"
+
+msgid "report enabled"
+msgstr "report enabled"
+
+msgid "report immediately"
+msgstr "report immediately"
+
+msgid "report restore"
+msgstr "report restore"
+
+msgid "restart exit"
+msgstr "restart exit"
+
+msgid "restart reentry"
+msgstr "restart reentry"
+
+msgid "restart>reentry"
+msgstr "restart>reentry"
+
+msgid "restrt+arm home"
+msgstr "restrt+arm home"
+
+msgid "ring back"
+msgstr "ring back"
+
+msgid "ringback"
+msgstr "ringback"
+
+msgid "roam disable"
+msgstr "roam disable"
+
+msgid "roam enable"
+msgstr "roam enable"
+
+msgid "screen saver"
+msgstr "screen saver"
+
+msgid "scrn saver OFF"
+msgstr "scrn saver OFF"
+
+msgid "send"
+msgstr "send"
+
+msgid "shut after 1"
+msgstr "shut after 1"
+
+msgid "shut after 2"
+msgstr "shut after 2"
+
+msgid "shut after 3"
+msgstr "shut after 3"
+
+msgid "silent"
+msgstr "silent"
+
+msgid "silent  panic"
+msgstr "silent  panic"
+
+msgid "silent as panic"
+msgstr "silent as panic"
+
+msgid "single ack"
+msgstr "single ack"
+
+msgid "skip exit delay"
+msgstr "skip exit delay"
+
+msgid "sounder volume"
+msgstr "sounder volume"
+
+msgid "squawk"
+msgstr "squawk"
+
+msgid "squawk disable"
+msgstr "squawk disable"
+
+msgid "sqwk hi  volume"
+msgstr "sqwk hi  volume"
+
+msgid "sqwk low volume"
+msgstr "sqwk low volume"
+
+msgid "sqwk mid volume"
+msgstr "sqwk mid volume"
+
+msgid "status"
+msgstr "status"
+
+msgid "strobe"
+msgstr "strobe"
+
+msgid "strobe alarm"
+msgstr "strobe alarm"
+
+msgid "subType 1"
+msgstr "subType 1"
+
+msgid "subType 10"
+msgstr "subType 10"
+
+msgid "subType 11"
+msgstr "subType 11"
+
+msgid "subType 12"
+msgstr "subType 12"
+
+msgid "subType 13"
+msgstr "subType 13"
+
+msgid "subType 14"
+msgstr "subType 14"
+
+msgid "subType 15"
+msgstr "subType 15"
+
+msgid "subType 16"
+msgstr "subType 16"
+
+msgid "subType 17"
+msgstr "subType 17"
+
+msgid "subType 18"
+msgstr "subType 18"
+
+msgid "subType 19"
+msgstr "subType 19"
+
+msgid "subType 2"
+msgstr "subType 2"
+
+msgid "subType 20"
+msgstr "subType 20"
+
+msgid "subType 21"
+msgstr "subType 21"
+
+msgid "subType 22"
+msgstr "subType 22"
+
+msgid "subType 23"
+msgstr "subType 23"
+
+msgid "subType 24"
+msgstr "subType 24"
+
+msgid "subType 25"
+msgstr "subType 25"
+
+msgid "subType 26"
+msgstr "subType 26"
+
+msgid "subType 27"
+msgstr "subType 27"
+
+msgid "subType 28"
+msgstr "subType 28"
+
+msgid "subType 29"
+msgstr "subType 29"
+
+msgid "subType 3"
+msgstr "subType 3"
+
+msgid "subType 30"
+msgstr "subType 30"
+
+msgid "subType 4"
+msgstr "subType 4"
+
+msgid "subType 5"
+msgstr "subType 5"
+
+msgid "subType 6"
+msgstr "subType 6"
+
+msgid "subType 7"
+msgstr "subType 7"
+
+msgid "subType 8"
+msgstr "subType 8"
+
+msgid "subType 9"
+msgstr "subType 9"
+
+msgid "superv time 12h"
+msgstr "superv time 12h"
+
+msgid "superv time 1h"
+msgstr "superv time 1h"
+
+msgid "superv time 2h"
+msgstr "superv time 2h"
+
+msgid "superv time 4h"
+msgstr "superv time 4h"
+
+msgid "superv time 8h"
+msgstr "superv time 8h"
+
+msgid "supervision"
+msgstr "supervision"
+
+msgid "tampers"
+msgstr "tampers"
+
+msgid "test OFF"
+msgstr "test OFF"
+
+msgid "test every  1 d"
+msgstr "test every  1 d"
+
+msgid "test every  2 d"
+msgstr "test every  2 d"
+
+msgid "test every  5 d"
+msgstr "test every  5 d"
+
+msgid "test every  5 h"
+msgstr "test every  5 h"
+
+msgid "test every  7 d"
+msgstr "test every  7 d"
+
+msgid "test every 14 d"
+msgstr "test every 14 d"
+
+msgid "test every 30 d"
+msgstr "test every 30 d"
+
+msgid "time out  2 m"
+msgstr "time out  2 m"
+
+msgid "time out 10 s"
+msgstr "time out 10 s"
+
+msgid "time out 45 s"
+msgstr "time out 45 s"
+
+msgid "time out 60 s"
+msgstr "time out 60 s"
+
+msgid "time out 90 s"
+msgstr "time out 90 s"
+
+msgid "timeout  2 m"
+msgstr "timeout  2 m"
+
+msgid "timeout 10 s"
+msgstr "timeout 10 s"
+
+msgid "timeout 45 s"
+msgstr "timeout 45 s"
+
+msgid "timeout 60 s"
+msgstr "timeout 60 s"
+
+msgid "timeout 90 s"
+msgstr "timeout 90 s"
+
+msgid "toggle"
+msgstr "toggle"
+
+msgid "tone (dtmf)"
+msgstr "tone (dtmf)"
+
+msgid "turn OFF"
+msgstr "turn OFF"
+
+msgid "turn ON"
+msgstr "turn ON"
+
+msgid "user code 1"
+msgstr "user code 1"
+
+msgid "user code 10"
+msgstr "user code 10"
+
+msgid "user code 11"
+msgstr "user code 11"
+
+msgid "user code 12"
+msgstr "user code 12"
+
+msgid "user code 13"
+msgstr "user code 13"
+
+msgid "user code 14"
+msgstr "user code 14"
+
+msgid "user code 15"
+msgstr "user code 15"
+
+msgid "user code 16"
+msgstr "user code 16"
+
+msgid "user code 17"
+msgstr "user code 17"
+
+msgid "user code 18"
+msgstr "user code 18"
+
+msgid "user code 19"
+msgstr "user code 19"
+
+msgid "user code 2"
+msgstr "user code 2"
+
+msgid "user code 20"
+msgstr "user code 20"
+
+msgid "user code 21"
+msgstr "user code 21"
+
+msgid "user code 22"
+msgstr "user code 22"
+
+msgid "user code 23"
+msgstr "user code 23"
+
+msgid "user code 24"
+msgstr "user code 24"
+
+msgid "user code 25"
+msgstr "user code 25"
+
+msgid "user code 26"
+msgstr "user code 26"
+
+msgid "user code 27"
+msgstr "user code 27"
+
+msgid "user code 28"
+msgstr "user code 28"
+
+msgid "user code 29"
+msgstr "user code 29"
+
+msgid "user code 3"
+msgstr "user code 3"
+
+msgid "user code 30"
+msgstr "user code 30"
+
+msgid "user code 31"
+msgstr "user code 31"
+
+msgid "user code 32"
+msgstr "user code 32"
+
+msgid "user code 33"
+msgstr "user code 33"
+
+msgid "user code 34"
+msgstr "user code 34"
+
+msgid "user code 35"
+msgstr "user code 35"
+
+msgid "user code 36"
+msgstr "user code 36"
+
+msgid "user code 37"
+msgstr "user code 37"
+
+msgid "user code 38"
+msgstr "user code 38"
+
+msgid "user code 39"
+msgstr "user code 39"
+
+msgid "user code 4"
+msgstr "user code 4"
+
+msgid "user code 40"
+msgstr "user code 40"
+
+msgid "user code 41"
+msgstr "user code 41"
+
+msgid "user code 42"
+msgstr "user code 42"
+
+msgid "user code 43"
+msgstr "user code 43"
+
+msgid "user code 44"
+msgstr "user code 44"
+
+msgid "user code 45"
+msgstr "user code 45"
+
+msgid "user code 46"
+msgstr "user code 46"
+
+msgid "user code 47"
+msgstr "user code 47"
+
+msgid "user code 48"
+msgstr "user code 48"
+
+msgid "user code 5"
+msgstr "user code 5"
+
+msgid "user code 6"
+msgstr "user code 6"
+
+msgid "user code 7"
+msgstr "user code 7"
+
+msgid "user code 8"
+msgstr "user code 8"
+
+msgid "user code 9"
+msgstr "user code 9"
+
+msgid "user reset"
+msgstr "user reset"
+
+msgid "very hot   35°c"
+msgstr "very hot   35°c"
+
+msgid "view on alarm"
+msgstr "view on alarm"
+
+msgid "view on arming"
+msgstr "view on arming"
+
+msgid "when system OFF"
+msgstr "when system OFF"
+
+msgid "zone name-chime"
+msgstr "zone name-chime"
+
+msgid "zone tamper OFF"
+msgstr "zone tamper OFF"
+
+msgid "zone tamper ON"
+msgstr "zone tamper ON"

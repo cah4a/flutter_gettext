@@ -14,6 +14,7 @@ environment:
 
 dependencies:
   sprintf: ^4.0.0
+  intl_translation:
   flutter_gettext:
     path: ../
   flutter:
